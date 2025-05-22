@@ -1,0 +1,97 @@
+-------- 2025-05-21 09:11:03 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+    [id] => 3
+)
+
+FILES data: Array
+(
+)
+
+Current image path: uploads/branches/682d77bb22be9_480459529_588693624167701_9185465951209528158_n.jpg
+Branch updated successfully
+-------- 2025-05-21 09:11:08 --------
+POST data: Array
+(
+    [name] => wawaw
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+    [id] => 3
+)
+
+FILES data: Array
+(
+)
+
+Current image path: uploads/branches/682d77bb22be9_480459529_588693624167701_9185465951209528158_n.jpg
+Branch updated successfully
+-------- 2025-05-22 11:12:20 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderona
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+    [id] => 4
+)
+
+FILES data: Array
+(
+)
+
+Current image path: uploads/branches/682eea70cc52e_476611525_583213628049034_5998338186033375248_n.jpg
+Branch updated successfully
+-------- 2025-05-22 12:14:21 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Pinagbuhatan
+    [address] => PINAGBUHATAN PASIG
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+    [id] => 6
+)
+
+FILES data: Array
+(
+)
+
+Current image path: uploads/branches/682ef89d1dfb0_481712733_596740090029721_5434059287288147836_n.jpg
+Branch updated successfully
+-------- 2025-05-22 12:14:57 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Camarin
+    [address] => 648 BLK 5 LOT 2 AREA A CAMARIN
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+    [id] => 7
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480959199_596369443400119_9150774989361917946_n.jpg
+            [full_path] => 480959199_596369443400119_9150774989361917946_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php487F.tmp
+            [error] => 0
+            [size] => 91214
+        )
+
+)
+
+Current image path: uploads/branches/682ef8b7d9337_480921915_597081509995579_1930904106180360947_n.jpg
+New image uploaded to: uploads/branches/682ef9211192a_480959199_596369443400119_9150774989361917946_n.jpg
+Old image deleted: uploads/branches/682ef8b7d9337_480921915_597081509995579_1930904106180360947_n.jpg
+Branch updated successfully

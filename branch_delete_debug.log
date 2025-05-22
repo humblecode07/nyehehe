@@ -1,0 +1,36 @@
+-------- 2025-05-21 09:13:14 --------
+POST data: Array
+(
+    [id] => 3
+)
+
+Image to delete: uploads/branches/682d77bb22be9_480459529_588693624167701_9185465951209528158_n.jpg
+Image deleted: uploads/branches/682d77bb22be9_480459529_588693624167701_9185465951209528158_n.jpg
+Branch deleted successfully
+-------- 2025-05-22 11:12:22 --------
+POST data: Array
+(
+    [id] => 4
+)
+
+Image to delete: uploads/branches/682eea70cc52e_476611525_583213628049034_5998338186033375248_n.jpg
+Image deleted: uploads/branches/682eea70cc52e_476611525_583213628049034_5998338186033375248_n.jpg
+Branch deleted successfully
+-------- 2025-05-22 12:08:36 --------
+POST data: Array
+(
+    [id] => 2
+)
+
+Image to delete: uploads/branches/682d77b51e2d6_480483369_589193847451012_7879284575069186584_n.jpg
+Image deleted: uploads/branches/682d77b51e2d6_480483369_589193847451012_7879284575069186584_n.jpg
+Branch deleted successfully
+-------- 2025-05-22 12:08:38 --------
+POST data: Array
+(
+    [id] => 1
+)
+
+Image to delete: uploads/branches/682d77a146eb5_480459529_588693624167701_9185465951209528158_n.jpg
+Image deleted: uploads/branches/682d77a146eb5_480459529_588693624167701_9185465951209528158_n.jpg
+Branch deleted successfully

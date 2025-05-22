@@ -1,0 +1,74 @@
+---- 2025-05-22 11:09:55 ----
+POST Data: Array
+(
+    [id] => 2
+    [name] => 121
+    [price] => 12.00
+    [category] => Pastries
+    [description] => 1
+    [image] => uploads/682d558a7efa7.jpg
+)
+
+FILES Data: Array
+(
+)
+
+---- 2025-05-22 11:10:05 ----
+POST Data: Array
+(
+    [id] => 2
+    [name] => 12
+    [price] => 12.00
+    [category] => Pastries
+    [description] => 1
+    [image] => uploads/682d558a7efa7.jpg
+)
+
+FILES Data: Array
+(
+)
+
+-------- 2025-05-22 11:22:30 --------
+POST data: Array
+(
+    [id] => 2
+    [name] => 121
+    [price] => 12.00
+    [category] => Pastries
+    [description] => 1
+    [image] => uploads/682d558a7efa7.jpg
+)
+
+FILES data: Array
+(
+)
+
+Current image path: uploads/682d558a7efa7.jpg
+Food item updated successfully
+-------- 2025-05-22 11:24:10 --------
+POST data: Array
+(
+    [id] => 1
+    [name] => 123
+    [price] => 12.00
+    [category] => Beverages
+    [description] => 1212
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [full_path] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpCB71.tmp
+            [error] => 0
+            [size] => 72962
+        )
+
+)
+
+Current image path: 
+New image uploaded to: uploads/food_items/682eed3a5dff5_480459529_588693624167701_9185465951209528158_n.jpg
+Food item updated successfully

@@ -1,0 +1,32 @@
+-------- 2025-05-22 09:10:34 --------
+OPTIONS preflight request handled
+-------- 2025-05-22 09:10:34 --------
+Received JSON data: {"name":"Miko Bolambot Calderon","email":"mikocalderon723@gmail.com","message":"123"}
+Name: Miko Bolambot Calderon
+Email: mikocalderon723@gmail.com
+Message: 123
+Database insert successful
+-------- 2025-05-22 11:04:14 --------
+OPTIONS preflight request handled
+-------- 2025-05-22 11:04:14 --------
+Received JSON data: {"name":"John Neil Tamondong","email":"seniordev@gmail.com","message":"This is a test message."}
+Name: John Neil Tamondong
+Email: seniordev@gmail.com
+Message: This is a test message.
+Database insert successful
+-------- 2025-05-22 11:05:13 --------
+OPTIONS preflight request handled
+-------- 2025-05-22 11:05:13 --------
+Received JSON data: {"name":"Rafael Ramos","email":"ramos.rafael.00327@gmail.com","message":"This is an another test message."}
+Name: Rafael Ramos
+Email: ramos.rafael.00327@gmail.com
+Message: This is an another test message.
+Database insert successful
+-------- 2025-05-22 11:06:36 --------
+OPTIONS preflight request handled
+-------- 2025-05-22 11:06:36 --------
+Received JSON data: {"name":"John Adrian Llanita","email":"johnadrianllanita@gmail.com","message":"This is an another nother test message."}
+Name: John Adrian Llanita
+Email: johnadrianllanita@gmail.com
+Message: This is an another nother test message.
+Database insert successful

@@ -1,0 +1,74 @@
+-------- 2025-05-22 11:01:33 --------
+REQUEST_METHOD: OPTIONS
+POST data: Array
+(
+)
+
+GET data: Array
+(
+    [id] => 3
+)
+
+Contact found with ID: 3
+Contact message deleted successfully
+-------- 2025-05-22 11:01:51 --------
+REQUEST_METHOD: POST
+POST data: Array
+(
+    [id] => 3
+)
+
+GET data: Array
+(
+)
+
+Error: Contact message not found with ID 3
+-------- 2025-05-22 11:02:18 --------
+REQUEST_METHOD: POST
+POST data: Array
+(
+    [id] => 3
+)
+
+GET data: Array
+(
+)
+
+Error: Contact message not found with ID 3
+-------- 2025-05-22 11:02:32 --------
+REQUEST_METHOD: POST
+POST data: Array
+(
+    [id] => 3
+)
+
+GET data: Array
+(
+)
+
+Error: Contact message not found with ID 3
+-------- 2025-05-22 11:03:22 --------
+REQUEST_METHOD: POST
+POST data: Array
+(
+    [id] => 3
+)
+
+GET data: Array
+(
+)
+
+Error: Contact message not found with ID 3
+-------- 2025-05-22 11:03:29 --------
+REQUEST_METHOD: POST
+POST data: Array
+(
+    [id] => 2
+)
+
+GET data: Array
+(
+)
+
+Contact found with ID: 2
+Contact message deleted successfully

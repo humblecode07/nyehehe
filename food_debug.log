@@ -1,0 +1,104 @@
+-------- 2025-05-22 12:07:05 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [price] => 12.00
+    [category] => Beverages
+    [description] => 1232
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [full_path] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php186E.tmp
+            [error] => 0
+            [size] => 337125
+        )
+
+)
+
+Image uploaded successfully to: uploads/food_items/682ef749ef2d2_1747908425.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful. New ID: 4
+-------- 2025-05-22 12:07:47 --------
+POST data: Array
+(
+    [name] => Mango Tea
+    [price] => 39
+    [category] => Beverages
+    [description] => Test 1
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [full_path] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpB9DF.tmp
+            [error] => 0
+            [size] => 337125
+        )
+
+)
+
+Image uploaded successfully to: uploads/food_items/682ef7734ed60_1747908467.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful. New ID: 5
+-------- 2025-05-22 12:08:17 --------
+POST data: Array
+(
+    [name] => Lychee Tea
+    [price] => 39
+    [category] => Beverages
+    [description] => Test 2
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480197028_589193610784369_7815744390605763361_n.jpg
+            [full_path] => 480197028_589193610784369_7815744390605763361_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php30B6.tmp
+            [error] => 0
+            [size] => 339343
+        )
+
+)
+
+Image uploaded successfully to: uploads/food_items/682ef791b6325_1747908497.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful. New ID: 6
+-------- 2025-05-22 12:08:32 --------
+POST data: Array
+(
+    [name] => Green Apple Tea
+    [price] => 39
+    [category] => Beverages
+    [description] => Test 3
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480279517_589193850784345_3918604700192278414_n.jpg
+            [full_path] => 480279517_589193850784345_3918604700192278414_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php6AF2.tmp
+            [error] => 0
+            [size] => 296148
+        )
+
+)
+
+Image uploaded successfully to: uploads/food_items/682ef7a0a1369_1747908512.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful. New ID: 7

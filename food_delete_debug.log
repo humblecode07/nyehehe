@@ -1,0 +1,24 @@
+-------- 2025-05-22 11:23:20 --------
+POST data: Array
+(
+    [id] => 2
+)
+
+Deleted DB record with ID 2
+Deleted image file: uploads/682d558a7efa7.jpg
+-------- 2025-05-22 12:07:09 --------
+POST data: Array
+(
+    [id] => 4
+)
+
+Deleted DB record with ID 4
+Deleted image file: uploads/food_items/682ef749ef2d2_1747908425.jpg
+-------- 2025-05-22 12:07:11 --------
+POST data: Array
+(
+    [id] => 1
+)
+
+Deleted DB record with ID 1
+Deleted image file: uploads/food_items/682eed3a5dff5_480459529_588693624167701_9185465951209528158_n.jpg

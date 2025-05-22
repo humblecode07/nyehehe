@@ -1,0 +1,280 @@
+-------- 2025-05-21 08:50:04 --------
+POST data: Array
+(
+)
+
+FILES data: Array
+(
+)
+
+Error: Branch name is required
+-------- 2025-05-21 08:50:09 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [full_path] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php85B8.tmp
+            [error] => 0
+            [size] => 72962
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682d77a146eb5_480459529_588693624167701_9185465951209528158_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-21 08:50:29 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [full_path] => 480483369_589193847451012_7879284575069186584_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpD282.tmp
+            [error] => 0
+            [size] => 337125
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682d77b51e2d6_480483369_589193847451012_7879284575069186584_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-21 08:50:35 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [full_path] => 480459529_588693624167701_9185465951209528158_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpEA9F.tmp
+            [error] => 0
+            [size] => 72962
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682d77bb22be9_480459529_588693624167701_9185465951209528158_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 11:12:16 --------
+POST data: Array
+(
+    [name] => Miko Bolambot Calderon
+    [address] => 1168 Pag-asa Street
+    [contact] => 09675333614
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 476611525_583213628049034_5998338186033375248_n.jpg
+            [full_path] => 476611525_583213628049034_5998338186033375248_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE798.tmp
+            [error] => 0
+            [size] => 108493
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682eea70cc52e_476611525_583213628049034_5998338186033375248_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:11:36 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Camarin
+    [address] => 648 BLK 5 LOT 2 AREA A CAMARIN
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480747197_595125463524517_1720753911413041906_n.jpg
+            [full_path] => 480747197_595125463524517_1720753911413041906_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php3A5E.tmp
+            [error] => 0
+            [size] => 85736
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef858da905_480747197_595125463524517_1720753911413041906_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:12:45 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Camarin
+    [address] => PINAGBUHATAN PASIG
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 481712733_596740090029721_5434059287288147836_n.jpg
+            [full_path] => 481712733_596740090029721_5434059287288147836_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php4528.tmp
+            [error] => 0
+            [size] => 244553
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef89d1dfb0_481712733_596740090029721_5434059287288147836_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:13:11 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Camarin
+    [address] => 648 BLK 5 LOT 2 AREA A CAMARIN
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480921915_597081509995579_1930904106180360947_n.jpg
+            [full_path] => 480921915_597081509995579_1930904106180360947_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpADB7.tmp
+            [error] => 0
+            [size] => 200937
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef8b7d9337_480921915_597081509995579_1930904106180360947_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:13:27 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Deparo
+    [address] => CALOOCAN CITY
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 481099869_596745216695875_4419249116016683175_n.jpg
+            [full_path] => 481099869_596745216695875_4419249116016683175_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpE94A.tmp
+            [error] => 0
+            [size] => 282526
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef8c720d92_481099869_596745216695875_4419249116016683175_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:14:09 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Cauayan
+    [address] => CAUAYAN QUEZON CITY
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480816162_596744960029234_8798788810000175351_n.jpg
+            [full_path] => 480816162_596744960029234_8798788810000175351_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php8E07.tmp
+            [error] => 0
+            [size] => 315972
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef8f170270_480816162_596744960029234_8798788810000175351_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
+-------- 2025-05-22 12:14:42 --------
+POST data: Array
+(
+    [name] => Dash Coffee - Pasig
+    [address] => PASIG CITY METRO MANILA               
+    [contact] => +(63) 912-3456789
+    [manager] => Karen
+    [hours] => 7:00 AM - 8:00 PM
+)
+
+FILES data: Array
+(
+    [image] => Array
+        (
+            [name] => 480921915_597081509995579_1930904106180360947_n.jpg
+            [full_path] => 480921915_597081509995579_1930904106180360947_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\php1151.tmp
+            [error] => 0
+            [size] => 200937
+        )
+
+)
+
+Image uploaded successfully to: uploads/branches/682ef912de02a_480921915_597081509995579_1930904106180360947_n.jpg
+PDO connection variable: pdo exists, conn missing
+Database insertion successful
